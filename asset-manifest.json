@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ea273945.js",
+    "static/media/home.png": "/static/media/home.8d7f13fcf5b05665106c.png",
+    "static/media/celebrate.png": "/static/media/celebrate.37db57e5dc4cad5f228e.png",
+    "static/media/message.png": "/static/media/message.e7878f76c2d4e18ba8c7.png",
+    "static/media/ball.png": "/static/media/ball.5c150d66b7841eecce68.png",
+    "static/media/new4.png": "/static/media/new4.0edd10c67d52e6cbe8a3.png",
+    "static/media/new2.png": "/static/media/new2.b90e85392163938a8f9c.png",
+    "static/media/giving1.png": "/static/media/giving1.02e657df83a100ac96f9.png",
+    "static/media/gift1.png": "/static/media/gift1.c15c6b6ac60414e6254e.png",
+    "static/media/giving2.png": "/static/media/giving2.68e3cae4db37f5c8ea4c.png",
+    "static/media/gift3.png": "/static/media/gift3.5b4c7f1f414f7e64c2dc.png",
+    "static/media/giving3.png": "/static/media/giving3.bfdf031db0983c1de71b.png",
+    "static/media/new1.png": "/static/media/new1.47cbe62f98d7d1eda8d9.png",
+    "static/media/gift2.png": "/static/media/gift2.85823fe3adc86c7cf9c0.png",
+    "static/media/gift5.png": "/static/media/gift5.ac5ccd8275abea35f504.png",
+    "static/media/gift4.png": "/static/media/gift4.80fb16b1cad6efee88eb.png",
+    "static/media/new3.png": "/static/media/new3.468248dca539d121b20b.png",
+    "index.html": "/index.html",
+    "main.ea273945.js.map": "/static/js/main.ea273945.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ea273945.js"
+  ]
+}
